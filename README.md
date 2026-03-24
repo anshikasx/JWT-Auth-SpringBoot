@@ -81,6 +81,12 @@ It supports user registration, login, JWT token generation, token validation, an
 ### 📍 Delete User
 <img width="652" height="645" alt="deleteuser" src="https://github.com/user-attachments/assets/76847b53-d974-45ab-a2ba-1b748dfbe10f" />
 
+### 📍 Maven Build
+<img width="913" height="217" alt="mavenbuild" src="https://github.com/user-attachments/assets/bdc2f940-d7be-431a-9c6f-6e41d59b267c" />
+
+
+
+
 ⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
 ## How to Run Project
